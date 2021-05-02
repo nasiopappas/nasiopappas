@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nasiopappas!
+- 👀 I’m interested in Programming and Data Sciece!
+- 🌱 I’m currently learning Python, SQL, R and Java.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me? Mail me here: pappas.athanasios.43@gmail.com
